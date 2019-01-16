@@ -20,6 +20,6 @@ I'm going to make a list now:
 - not anymore thats a super weird thing
 - lets get a block quote up in heeeeere
 
-this is weird but it is so fun to type in I think I really like this 
+this is weird but it is so fun to type in I think I really like this it feels like there aren't any breaks in my thoughts and I can just think and think and write and write forever.
 
-the estimated length  
+I'm realizing that I keep forgetting to use proper syntax and grammer here
