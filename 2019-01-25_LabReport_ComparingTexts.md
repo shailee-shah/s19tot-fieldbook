@@ -1,17 +1,3 @@
-
----
-layout: post
-title: "Comparing Ancient Texts"
-subheadline: ""
-categories:
-    - fieldbooks
-comments: false
-
-
-
-
-
-
 #Comparing Ancient Texts
 
 ##Comparisons
@@ -20,10 +6,10 @@ comments: false
 |:-:	|:-:	|---	|
 |   short and fat (implies portable)	| short and fat 	| seems larger based on the image| 
 |  margin lines to guide the scribe's writing|margin lines (despite being unecessary| no detectable margin lines
-| handwritten, some colored text (blue and red), uniform text size | all black text, incedibly uniform| vellum copy looks like an enlarged dragon prayer book
-  	handwritten with drawings|   printed and drawn in|  printed and drawn in 	|
-|   tabs on the outside (makes it easier to flip to  certain prayers), but no catch words	| numbered pages  	|   no numered pages	|
-|   	jagged edges, printed on animal skin (_vellum_)| smooth edges, printed on rag paper  	|  printed on both vellum and "paper" 	|
+| handwritten, some colored text (blue and red), uniform text size | all black text, incedibly uniform| vellum copy looks like an enlarged dragon prayer book 
+handwritten with drawings|printed and drawn in|  printed and drawn in|
+|tabs on the outside (makes it easier to flip to  certain prayers), but no catch words|numbered pages|no numbered pages
+|jagged edges, printed on animal skin (_vellum_)|smooth edges, printed on rag paper|printed on both vellum and "paper"|
 
 ##Analysis
 
